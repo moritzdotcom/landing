@@ -1,0 +1,14 @@
+.banner {
+  background-image: url('../../images/banner.jpg');
+  background-size: cover;
+  height: 500px;
+  color: #DFF;
+  display: flex;
+  align-items: center;
+  letter-spacing: 2px;
+}
+
+.banner .container {
+  padding: 0 10vw;
+  width: 30vw;
+}
